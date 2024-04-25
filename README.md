@@ -15,6 +15,25 @@
 </div>
 
 
+## 🚀 About Me
+Highly motivated Entry Level Python Developer with a passion for creating innovative solutions. Skilled in developing and deploying Python-based  applications, optimizing code for performance and scalability, and troubleshooting technical issues. Proven track record in increasing user engagement, reducing bounce rates, and improving system efficiency.
+
+
+## 🛠 Skills
+Languages: C, C++, Python, MySQL
+*Open-source contribution
+* Data processing
+* Data analysis
+* Troubleshooting
+* Debugging
+* Emerging trends and technologies
+* Software maintenance
+* Cross-functional collaboration
+* Professional networking
+
+
+
+
 ---
 
 ### :fire: My Stats :
