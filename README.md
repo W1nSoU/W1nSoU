@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/danny-dushinskiy-7b3604306/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@winsou/playlists">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/DBorcuk50406">
@@ -20,7 +20,7 @@ Highly motivated Entry Level Python Developer with a passion for creating innova
 
 
 ## 🛠 Skills
-Languages: C, C++, Python, MySQL
+Languages: C, C++, Python, MySQLi
 *Open-source contribution
 * Data processing
 * Data analysis
